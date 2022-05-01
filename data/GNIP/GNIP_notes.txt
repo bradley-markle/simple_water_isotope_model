@@ -1,0 +1,15 @@
+GNIP notes:
+
+GNIP monthly and cryo data download from here:
+https://nucleus.iaea.org/wiser/index.aspx
+Website is a pain in the ass tbh.
+
+Description here:
+http://www-naweb.iaea.org/napc/ih/IHS_resources_gnip.html
+
+
+Citation:
+IAEA/WMO (current Year). Global Network of Isotopes in Precipitation. The GNIP Database. Accessible at: http://www.iaea.org/water
+
+Annual mean data described here:
+http://www-naweb.iaea.org/napc/ih/documents/userupdate/Waterloo/
